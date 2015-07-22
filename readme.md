@@ -17,3 +17,10 @@
 ## Bonus
 
 Can you satisfy the above specs by only using a single route?
+
+## Double Bonus
+
+[HAML](http://haml.info/) is an HTML abstraction mark up language. Refactor your erb
+views to use HAML as the templating engine.
+
+Here is a helpful blog post on using HAML with Sinatra - http://blog.maxaller.name/2010/01/a-brief-introduction-to-ruby-sinatra-and-haml/
