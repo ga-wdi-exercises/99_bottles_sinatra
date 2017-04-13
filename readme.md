@@ -6,7 +6,7 @@
   - "99 Bottles of beer on the wall"
   - add a link to take one down
 - The page `/:num_bottles` should show:
-  - "num_bottles Bottles of beer on the wall"
+  - `:num_bottles` bottles of beer on the wall"
   - where `:num_bottles` can be any positive integer.
   - add a link to take one down
 - The page `/0` should show:
